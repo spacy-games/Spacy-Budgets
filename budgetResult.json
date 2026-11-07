@@ -1,0 +1,790 @@
+{
+  "working": {
+    "http://budgets.spacy.games:3000/fr": [
+      {
+        "metric": "Cumulative Layout Shift",
+        "type": "googleWebVitals",
+        "value": 0,
+        "friendlyValue": 0,
+        "limit": 0.1,
+        "friendlyLimit": 0.1,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "HTML Content Size",
+        "type": "contentSize",
+        "value": 121298,
+        "friendlyValue": "118.5 KB",
+        "limit": 194560,
+        "friendlyLimit": "190.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "JavaScript Content Size",
+        "type": "contentSize",
+        "value": 952181,
+        "friendlyValue": "929.9 KB",
+        "limit": 1048576,
+        "friendlyLimit": "1.0 MB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "CSS Content Size",
+        "type": "contentSize",
+        "value": 259282,
+        "friendlyValue": "253.2 KB",
+        "limit": 348160,
+        "friendlyLimit": "340.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Font Content Size",
+        "type": "contentSize",
+        "value": 117808,
+        "friendlyValue": "115.0 KB",
+        "limit": 153600,
+        "friendlyLimit": "150.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "JSON Content Size",
+        "type": "contentSize",
+        "value": 294775,
+        "friendlyValue": "287.9 KB",
+        "limit": 450560,
+        "friendlyLimit": "440.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Total Content Size",
+        "type": "contentSize",
+        "value": 1751087,
+        "friendlyValue": "1.7 MB",
+        "limit": 2048000,
+        "friendlyLimit": "2.0 MB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Total Requests",
+        "type": "requests",
+        "value": 147,
+        "friendlyValue": 147,
+        "limit": 190,
+        "friendlyLimit": 190,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "JavaScript Requests",
+        "type": "requests",
+        "value": 87,
+        "friendlyValue": 87,
+        "limit": 115,
+        "friendlyLimit": 115,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "CSS Requests",
+        "type": "requests",
+        "value": 33,
+        "friendlyValue": 33,
+        "limit": 60,
+        "friendlyLimit": 60,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Font Requests",
+        "type": "requests",
+        "value": 4,
+        "friendlyValue": 4,
+        "limit": 8,
+        "friendlyLimit": 8,
+        "limitType": "max",
+        "status": "working"
+      }
+    ],
+    "http://budgets.spacy.games:3000/fr/faq": [
+      {
+        "metric": "Cumulative Layout Shift",
+        "type": "googleWebVitals",
+        "value": 0,
+        "friendlyValue": 0,
+        "limit": 0.1,
+        "friendlyLimit": 0.1,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "HTML Content Size",
+        "type": "contentSize",
+        "value": 105429,
+        "friendlyValue": "103.0 KB",
+        "limit": 194560,
+        "friendlyLimit": "190.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "JavaScript Content Size",
+        "type": "contentSize",
+        "value": 915759,
+        "friendlyValue": "894.3 KB",
+        "limit": 1048576,
+        "friendlyLimit": "1.0 MB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "CSS Content Size",
+        "type": "contentSize",
+        "value": 260096,
+        "friendlyValue": "254.0 KB",
+        "limit": 348160,
+        "friendlyLimit": "340.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Font Content Size",
+        "type": "contentSize",
+        "value": 117808,
+        "friendlyValue": "115.0 KB",
+        "limit": 153600,
+        "friendlyLimit": "150.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "JSON Content Size",
+        "type": "contentSize",
+        "value": 294775,
+        "friendlyValue": "287.9 KB",
+        "limit": 450560,
+        "friendlyLimit": "440.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Total Content Size",
+        "type": "contentSize",
+        "value": 1696538,
+        "friendlyValue": "1.6 MB",
+        "limit": 2048000,
+        "friendlyLimit": "2.0 MB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Total Requests",
+        "type": "requests",
+        "value": 135,
+        "friendlyValue": 135,
+        "limit": 190,
+        "friendlyLimit": 190,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "JavaScript Requests",
+        "type": "requests",
+        "value": 86,
+        "friendlyValue": 86,
+        "limit": 115,
+        "friendlyLimit": 115,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "CSS Requests",
+        "type": "requests",
+        "value": 32,
+        "friendlyValue": 32,
+        "limit": 60,
+        "friendlyLimit": 60,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Font Requests",
+        "type": "requests",
+        "value": 4,
+        "friendlyValue": 4,
+        "limit": 8,
+        "friendlyLimit": 8,
+        "limitType": "max",
+        "status": "working"
+      }
+    ],
+    "http://budgets.spacy.games:3000/fr/news": [
+      {
+        "metric": "Cumulative Layout Shift",
+        "type": "googleWebVitals",
+        "value": 0,
+        "friendlyValue": 0,
+        "limit": 0.1,
+        "friendlyLimit": 0.1,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "HTML Content Size",
+        "type": "contentSize",
+        "value": 77761,
+        "friendlyValue": "75.9 KB",
+        "limit": 194560,
+        "friendlyLimit": "190.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "JavaScript Content Size",
+        "type": "contentSize",
+        "value": 913474,
+        "friendlyValue": "892.1 KB",
+        "limit": 1048576,
+        "friendlyLimit": "1.0 MB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "CSS Content Size",
+        "type": "contentSize",
+        "value": 258750,
+        "friendlyValue": "252.7 KB",
+        "limit": 348160,
+        "friendlyLimit": "340.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Font Content Size",
+        "type": "contentSize",
+        "value": 117808,
+        "friendlyValue": "115.0 KB",
+        "limit": 153600,
+        "friendlyLimit": "150.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "JSON Content Size",
+        "type": "contentSize",
+        "value": 294775,
+        "friendlyValue": "287.9 KB",
+        "limit": 450560,
+        "friendlyLimit": "440.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Total Content Size",
+        "type": "contentSize",
+        "value": 1663175,
+        "friendlyValue": "1.6 MB",
+        "limit": 2048000,
+        "friendlyLimit": "2.0 MB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Total Requests",
+        "type": "requests",
+        "value": 128,
+        "friendlyValue": 128,
+        "limit": 190,
+        "friendlyLimit": 190,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "JavaScript Requests",
+        "type": "requests",
+        "value": 85,
+        "friendlyValue": 85,
+        "limit": 115,
+        "friendlyLimit": 115,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "CSS Requests",
+        "type": "requests",
+        "value": 33,
+        "friendlyValue": 33,
+        "limit": 60,
+        "friendlyLimit": 60,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Font Requests",
+        "type": "requests",
+        "value": 4,
+        "friendlyValue": 4,
+        "limit": 8,
+        "friendlyLimit": 8,
+        "limitType": "max",
+        "status": "working"
+      }
+    ],
+    "http://budgets.spacy.games:3000/fr/codex": [
+      {
+        "metric": "Cumulative Layout Shift",
+        "type": "googleWebVitals",
+        "value": 0,
+        "friendlyValue": 0,
+        "limit": 0.1,
+        "friendlyLimit": 0.1,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "HTML Content Size",
+        "type": "contentSize",
+        "value": 93890,
+        "friendlyValue": "91.7 KB",
+        "limit": 194560,
+        "friendlyLimit": "190.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "JavaScript Content Size",
+        "type": "contentSize",
+        "value": 972558,
+        "friendlyValue": "949.8 KB",
+        "limit": 1048576,
+        "friendlyLimit": "1.0 MB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "CSS Content Size",
+        "type": "contentSize",
+        "value": 308157,
+        "friendlyValue": "300.9 KB",
+        "limit": 348160,
+        "friendlyLimit": "340.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Font Content Size",
+        "type": "contentSize",
+        "value": 86812,
+        "friendlyValue": "84.8 KB",
+        "limit": 153600,
+        "friendlyLimit": "150.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "JSON Content Size",
+        "type": "contentSize",
+        "value": 329550,
+        "friendlyValue": "321.8 KB",
+        "limit": 450560,
+        "friendlyLimit": "440.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Total Content Size",
+        "type": "contentSize",
+        "value": 1794646,
+        "friendlyValue": "1.7 MB",
+        "limit": 2048000,
+        "friendlyLimit": "2.0 MB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Total Requests",
+        "type": "requests",
+        "value": 137,
+        "friendlyValue": 137,
+        "limit": 190,
+        "friendlyLimit": 190,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "JavaScript Requests",
+        "type": "requests",
+        "value": 84,
+        "friendlyValue": 84,
+        "limit": 115,
+        "friendlyLimit": 115,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "CSS Requests",
+        "type": "requests",
+        "value": 35,
+        "friendlyValue": 35,
+        "limit": 60,
+        "friendlyLimit": 60,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Font Requests",
+        "type": "requests",
+        "value": 4,
+        "friendlyValue": 4,
+        "limit": 8,
+        "friendlyLimit": 8,
+        "limitType": "max",
+        "status": "working"
+      }
+    ],
+    "http://budgets.spacy.games:3000/fr/codex/economy/metal": [
+      {
+        "metric": "Cumulative Layout Shift",
+        "type": "googleWebVitals",
+        "value": 0,
+        "friendlyValue": 0,
+        "limit": 0.1,
+        "friendlyLimit": 0.1,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "HTML Content Size",
+        "type": "contentSize",
+        "value": 164209,
+        "friendlyValue": "160.4 KB",
+        "limit": 194560,
+        "friendlyLimit": "190.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "JavaScript Content Size",
+        "type": "contentSize",
+        "value": 996493,
+        "friendlyValue": "973.1 KB",
+        "limit": 1048576,
+        "friendlyLimit": "1.0 MB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "CSS Content Size",
+        "type": "contentSize",
+        "value": 324035,
+        "friendlyValue": "316.4 KB",
+        "limit": 348160,
+        "friendlyLimit": "340.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Font Content Size",
+        "type": "contentSize",
+        "value": 129524,
+        "friendlyValue": "126.5 KB",
+        "limit": 153600,
+        "friendlyLimit": "150.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "JSON Content Size",
+        "type": "contentSize",
+        "value": 329550,
+        "friendlyValue": "321.8 KB",
+        "limit": 450560,
+        "friendlyLimit": "440.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Total Content Size",
+        "type": "contentSize",
+        "value": 1996138,
+        "friendlyValue": "1.9 MB",
+        "limit": 2048000,
+        "friendlyLimit": "2.0 MB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Total Requests",
+        "type": "requests",
+        "value": 166,
+        "friendlyValue": 166,
+        "limit": 190,
+        "friendlyLimit": 190,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "JavaScript Requests",
+        "type": "requests",
+        "value": 100,
+        "friendlyValue": 100,
+        "limit": 115,
+        "friendlyLimit": 115,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "CSS Requests",
+        "type": "requests",
+        "value": 45,
+        "friendlyValue": 45,
+        "limit": 60,
+        "friendlyLimit": 60,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Font Requests",
+        "type": "requests",
+        "value": 6,
+        "friendlyValue": 6,
+        "limit": 8,
+        "friendlyLimit": 8,
+        "limitType": "max",
+        "status": "working"
+      }
+    ],
+    "http://budgets.spacy.games:3000/fr/codex/combat/ships": [
+      {
+        "metric": "Cumulative Layout Shift",
+        "type": "googleWebVitals",
+        "value": 0,
+        "friendlyValue": 0,
+        "limit": 0.1,
+        "friendlyLimit": 0.1,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "HTML Content Size",
+        "type": "contentSize",
+        "value": 156482,
+        "friendlyValue": "152.8 KB",
+        "limit": 194560,
+        "friendlyLimit": "190.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "JavaScript Content Size",
+        "type": "contentSize",
+        "value": 991015,
+        "friendlyValue": "967.8 KB",
+        "limit": 1048576,
+        "friendlyLimit": "1.0 MB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "CSS Content Size",
+        "type": "contentSize",
+        "value": 325761,
+        "friendlyValue": "318.1 KB",
+        "limit": 348160,
+        "friendlyLimit": "340.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Font Content Size",
+        "type": "contentSize",
+        "value": 86812,
+        "friendlyValue": "84.8 KB",
+        "limit": 153600,
+        "friendlyLimit": "150.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "JSON Content Size",
+        "type": "contentSize",
+        "value": 329550,
+        "friendlyValue": "321.8 KB",
+        "limit": 450560,
+        "friendlyLimit": "440.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Total Content Size",
+        "type": "contentSize",
+        "value": 1893299,
+        "friendlyValue": "1.8 MB",
+        "limit": 2048000,
+        "friendlyLimit": "2.0 MB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Total Requests",
+        "type": "requests",
+        "value": 167,
+        "friendlyValue": 167,
+        "limit": 190,
+        "friendlyLimit": 190,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "JavaScript Requests",
+        "type": "requests",
+        "value": 100,
+        "friendlyValue": 100,
+        "limit": 115,
+        "friendlyLimit": 115,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "CSS Requests",
+        "type": "requests",
+        "value": 49,
+        "friendlyValue": 49,
+        "limit": 60,
+        "friendlyLimit": 60,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Font Requests",
+        "type": "requests",
+        "value": 4,
+        "friendlyValue": 4,
+        "limit": 8,
+        "friendlyLimit": 8,
+        "limitType": "max",
+        "status": "working"
+      }
+    ],
+    "http://budgets.spacy.games:3000/fr/codex/planets/planet-types": [
+      {
+        "metric": "Cumulative Layout Shift",
+        "type": "googleWebVitals",
+        "value": 0,
+        "friendlyValue": 0,
+        "limit": 0.1,
+        "friendlyLimit": 0.1,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "HTML Content Size",
+        "type": "contentSize",
+        "value": 146448,
+        "friendlyValue": "143.0 KB",
+        "limit": 194560,
+        "friendlyLimit": "190.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "JavaScript Content Size",
+        "type": "contentSize",
+        "value": 996515,
+        "friendlyValue": "973.2 KB",
+        "limit": 1048576,
+        "friendlyLimit": "1.0 MB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "CSS Content Size",
+        "type": "contentSize",
+        "value": 320286,
+        "friendlyValue": "312.8 KB",
+        "limit": 348160,
+        "friendlyLimit": "340.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Font Content Size",
+        "type": "contentSize",
+        "value": 96568,
+        "friendlyValue": "94.3 KB",
+        "limit": 153600,
+        "friendlyLimit": "150.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "JSON Content Size",
+        "type": "contentSize",
+        "value": 404916,
+        "friendlyValue": "395.4 KB",
+        "limit": 450560,
+        "friendlyLimit": "440.0 KB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Total Content Size",
+        "type": "contentSize",
+        "value": 1968412,
+        "friendlyValue": "1.9 MB",
+        "limit": 2048000,
+        "friendlyLimit": "2.0 MB",
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Total Requests",
+        "type": "requests",
+        "value": 167,
+        "friendlyValue": 167,
+        "limit": 190,
+        "friendlyLimit": 190,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "JavaScript Requests",
+        "type": "requests",
+        "value": 99,
+        "friendlyValue": 99,
+        "limit": 115,
+        "friendlyLimit": 115,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "CSS Requests",
+        "type": "requests",
+        "value": 48,
+        "friendlyValue": 48,
+        "limit": 60,
+        "friendlyLimit": 60,
+        "limitType": "max",
+        "status": "working"
+      },
+      {
+        "metric": "Font Requests",
+        "type": "requests",
+        "value": 5,
+        "friendlyValue": 5,
+        "limit": 8,
+        "friendlyLimit": 8,
+        "limitType": "max",
+        "status": "working"
+      }
+    ]
+  },
+  "failing": {},
+  "error": {}
+}
